@@ -1,0 +1,6 @@
+/Users/ziyad/Projects/ClosingNumbers/ClosingNumbers/bin/Debug/ClosingNumbers.exe
+/Users/ziyad/Projects/ClosingNumbers/ClosingNumbers/bin/Debug/ClosingNumbers.pdb
+/Users/ziyad/Projects/ClosingNumbers/ClosingNumbers/obj/Debug/ClosingNumbers.csprojAssemblyReference.cache
+/Users/ziyad/Projects/ClosingNumbers/ClosingNumbers/obj/Debug/ClosingNumbers.csproj.CoreCompileInputs.cache
+/Users/ziyad/Projects/ClosingNumbers/ClosingNumbers/obj/Debug/ClosingNumbers.exe
+/Users/ziyad/Projects/ClosingNumbers/ClosingNumbers/obj/Debug/ClosingNumbers.pdb
